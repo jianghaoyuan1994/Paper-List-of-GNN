@@ -1,6 +1,6 @@
 # Paper List of Graph Neural Network
 
-My roadmap of learning GNN(actively maintained), it contains book, survey and papers. If you are a newcomer to this area, welcome study with me.
+My roadmap of learning GNN(actively maintained), it contains book, survey blog and papers. If you are a newcomer to this area, welcome study with me.
 
 ## Book
 
@@ -20,3 +20,10 @@ My roadmap of learning GNN(actively maintained), it contains book, survey and pa
 
   *Joan Bruna, Wojciech Zaremba, Arthur Szlam, Yann LeCun*
 
+- **Semi-Supervised Classification with Graph Convolutional Networks.** [paper](https://arxiv.org/abs/1609.02907)
+
+   *Thomas N. Kipf, Max Welling*
+
+## Blog
+
+- **GRAPH CONVOLUTIONAL NETWORKS**：https://tkipf.github.io/graph-convolutional-networks/
