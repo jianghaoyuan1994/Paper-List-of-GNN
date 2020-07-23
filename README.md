@@ -24,6 +24,16 @@ My roadmap of learning GNN(actively maintained), it contains book, survey blog a
 
    *Thomas N. Kipf, Max Welling*
 
+- **Inductive Representation Learning on Large Graphs.** [paper](https://arxiv.org/abs/1706.02216)
+
+  William L. Hamilton, Rex Ying, Jure Leskovec
+
+- **Graph Attention Networks.** [paper](https://arxiv.org/abs/1710.10903)
+
+  Petar Veličković, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Liò, Yoshua Bengio
+
+  
+
 ## Blog
 
 - **GRAPH CONVOLUTIONAL NETWORKS**：https://tkipf.github.io/graph-convolutional-networks/
