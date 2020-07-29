@@ -10,6 +10,14 @@ My roadmap of learning GNN(actively maintained), it contains book, survey blog a
 
 
 
+## Survey
+
+- **A Comprehensive Survey on Graph Neural.** [paper](https://arxiv.org/abs/1901.00596)
+
+  Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu
+
+
+
 ## Paper
 
 - **The Graph Neural Network Model.** [paper](https://repository.hkbu.edu.hk/cgi/viewcontent.cgi?article=1000&context=vprd_ja)
