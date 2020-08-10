@@ -34,13 +34,17 @@ My roadmap of learning GNN(actively maintained), it contains book, survey blog a
 
 - **Inductive Representation Learning on Large Graphs.** [paper](https://arxiv.org/abs/1706.02216)
 
-  William L. Hamilton, Rex Ying, Jure Leskovec
+  *William L. Hamilton, Rex Ying, Jure Leskovec*
 
 - **Graph Attention Networks.** [paper](https://arxiv.org/abs/1710.10903)
 
-  Petar Veličković, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Liò, Yoshua Bengio
+  *Petar Veličković, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Liò, Yoshua Bengio*
 
-  
+- **Hierarchical Graph Representation Learning with Differentiable Pooling.** [paper](https://arxiv.org/abs/1806.08804)
+
+   *Rex Ying, Jiaxuan You, Christopher Morris, Xiang Ren, William L. Hamilton, Jure Leskovec*
+
+
 
 ## Blog
 
