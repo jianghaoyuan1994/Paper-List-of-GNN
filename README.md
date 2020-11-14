@@ -20,6 +20,8 @@ My roadmap of learning GNN(actively maintained), it contains book, survey blog a
 
 ## Paper
 
+### Basic
+
 - **The Graph Neural Network Model.** [paper](https://repository.hkbu.edu.hk/cgi/viewcontent.cgi?article=1000&context=vprd_ja)
 
   *Scarselli, Franco and Gori, Marco and Tsoi, Ah Chung and Monfardini, Gabriele.*
@@ -43,6 +45,14 @@ My roadmap of learning GNN(actively maintained), it contains book, survey blog a
 - **Hierarchical Graph Representation Learning with Differentiable Pooling.** [paper](https://arxiv.org/abs/1806.08804)
 
    *Rex Ying, Jiaxuan You, Christopher Morris, Xiang Ren, William L. Hamilton, Jure Leskovec*
+
+### Application
+
+#### Traffic
+
+- **Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting.** [paper](https://ojs.aaai.org//index.php/AAAI/article/view/3881)
+
+  *Guo, S., Lin, Y., Feng, N., Song, C., & Wan, H*
 
 
 
